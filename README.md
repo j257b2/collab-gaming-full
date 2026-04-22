@@ -1,7 +1,5 @@
 # Colab Gaming Full (Steam + Heroic + Minecraft + Sunshine)
 
-Versión mejorada del proyecto Maquina-V5 con soporte completo.
-
 Inicio rápido (una sola celda):
 
 `python
