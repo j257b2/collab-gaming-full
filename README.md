@@ -1,4 +1,4 @@
-# Colab Gaming Full (Steam + Heroic + Minecraft + Sunshine)
+# Colab Gaming Full 
 
 Inicio rápido (una sola celda):
 
